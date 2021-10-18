@@ -10,3 +10,5 @@ for (let i = 0; i < konutKredileri.length; i++) {
 console.log("</ul>")
 console.log("asdasdasd")
 console.log("asdasdasd")
+console.log("asdasdasd")
+
